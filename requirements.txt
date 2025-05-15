@@ -1,2 +1,21 @@
+<<<<<<< HEAD
+# Notebook & Visualisierung
+notebook
+matplotlib
+seaborn
 pandas
 openpyxl
+
+# Datenvorverarbeitung
+scikit-learn
+numpy
+
+# Deep Learning mit TensorFlow (CPU-Version)
+tensorflow
+
+# Optional: Fortschrittsbalken, falls du Training oder Analyse erweitern willst
+tqdm
+=======
+pandas
+openpyxl
+>>>>>>> d26c233c0008ff17adb964dffea0f748057c3a87
