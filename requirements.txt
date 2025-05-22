@@ -1,4 +1,19 @@
+# Notebook & Visualisierung
+notebook
+matplotlib
+seaborn
 pandas
 openpyxl
-seaborn
-matplotlib
+
+# Datenvorverarbeitung
+scikit-learn
+numpy
+
+# Deep Learning mit TensorFlow (CPU-Version)
+tensorflow
+
+# Optional: Fortschrittsbalken, falls du Training oder Analyse erweitern willst
+tqdm
+
+pandas
+openpyxl
