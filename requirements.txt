@@ -17,3 +17,5 @@ tqdm
 
 pandas
 openpyxl
+tabfairgan
+torch
