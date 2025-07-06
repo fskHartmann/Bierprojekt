@@ -1,0 +1,86 @@
+variable,question,score
+Q0,Trinken Sie alkoholhaltiges oder alkoholfreies Bier bzw. bierhaltige Getränke?,6
+Q1,Wie häufig trinken Sie grundsätzlich alkoholfreies oder alkoholhaltiges Bier bzw. bierhaltige Getränke?,1
+Q2A,in Gesellschaft bei Freunden/Familie,4
+Q2B,auf privaten Partys oder Feiern,4
+Q2C,zuhause beim Essen,8
+Q2D,zuhause zur Entspannung,10
+"Q2E,""bei öffentlichen Veranstaltungen (Sport, Kultur, Musik etc.)"",4"
+"Q2F,""in Bars, Restaurants, Pubs, Clubs etc."",6"
+"Q2G,""im Urlaub im Hotel, am Strand etc."",3"
+Q3,Nennen Sie uns Ihre bevorzugte(n) Lieblingsmarke(n) für Bier bzw. bierhaltige Getränke,4
+"Q4A,""Stationärer Lebensmittelhandel (Supermarkt, Verbrauchermarkt, Discounter)"",5"
+Q4B,Stationärer Getränkefachhandel/-abholmärkte,7
+Q4C,Tankstelle,5
+Q4D,Gastronomie/Hotellerie,5
+Q4E,Kiosk/Späti/Büdchen/24×7 Store,2
+Q4F,direkt in der Brauerei,7
+Q4G,Mensa/Kantine/Verpflegungsautomat,5
+Q4H,Lieferservice/Online-Lebensmittelhandel,6
+"Q5,""Wie wichtig ist Ihnen, dass die von Ihnen konsumierten Biere bzw. bierhaltigen Getränke alkoholfrei sind?"",9"
+Q6A,Ich besitze ein großes Interesse an Bier oder bierhaltigen Getränken.,2
+Q6B,Bier und bierhaltige Getränke spielen eine große Rolle in meinem Leben.,6
+Q6C,Es macht mir großen Spaß ein Bier oder bierhaltiges Getränk zu konsumieren.,10
+Q6D,Der Konsum von Bier oder bierhaltigen Getränken ist sehr wichtig für mich.,5
+Q6E,Der Konsum von Bier oder bierhaltigen Getränken ist sehr vorteilhaft für mich.,5
+Q6F,Auf den Konsum von Bier oder bierhaltigen Getränken kann ich auf keinen Fall verzichten.,5
+Q7A,Gesunde Ernährung ist mir sehr wichtig.,8
+"Q7B,""Mir ist es sehr wichtig, dass Getränke umweltfreundlich hergestellt und vertrieben werden."",8"
+Q7C,Ich probiere sehr gerne neue Produkte oder Geschmacksrichtungen aus.,9
+"Q7D,""Für biologisch produzierte Getränke bin ich bereit, einen adäquaten Mehrpreis zu zahlen."",8"
+"Q7E,""Mir ist es sehr wichtig, dass bei der Herstellung von Getränken keine Inhaltsstoffe tierischen Ursprungs verwendet werden."",8"
+"Q7F,""Mir ist es sehr wichtig, beim Konsum von Getränken völlig auf Alkohol zu verzichten."",10"
+Q8A,Geschmack des Getränks,8
+Q8B,Geruch/Aroma des Getränks,9
+Q8C,Kaufpreis des Getränks,8
+Q8D,Bekanntheit der Marke,4
+Q8E,Nachhaltige Produktion des Getränks,8
+Q8F,Herkunftsregion der Marke,4
+Q8G,Design der Verpackung,8
+Q8H,Verpackungsgröße/-form,1
+Q8I,Aktionsangebot im Handel,2
+Q8J,Alkoholgehalt des Getränks,10
+Q8K,Empfehlung von Dritten,5
+Q8L,Verfügbarkeit im Handel,1
+Q9A,Alkoholfreies Bier oder alkoholfreie Biermischgetränke,8
+Q9B,Weizenbier/Weißbier/Berliner Weisse,8
+Q9C,Kölsch,8
+Q9D,Altbier (bspw. Diebels),8
+Q9E,Pale Ale (IPA etc.),8
+Q9F,Stout (bspw. Guinness),8
+Q9G,Märzen/Export/Kellerbier/Zwickelbier,8
+Q9H,Radler/Biermischgetränke (bspw. Cola-Bier),8
+Q9I,Pils/Pilsner,8
+Q9J,Bockbier/Schwarzbier/Rauchbier (bspw. Köstritzer),8
+Q9K,Helles oder Lager (bspw. Augustiner),8
+Q9L,Craft Beer,8
+Q10A,Alkoholfreies Bier ohne Alkohol (0% Alkoholgehalt),9
+"Q10B,""Alkoholfreies Bier mit sehr geringem Alkoholgehalt (bis max. 0,5% Alkoholgehalt)"",9"
+"Q10C,""Normales Bier mit Alkohol (> 0,5% Alkoholgehalt)"",9"
+Q11A,rauchiger Geschmack,10
+Q11B,herber-hopfiger Geschmack,10
+Q11C,süßlich-malziger Geschmack,10
+Q11D,fruchtiger Geschmack,10
+Q11E,Geschmack nach Kräutern,10
+Q11F,Geschmack nach Gewürzen,10
+Q11G,bitterer Geschmack,10
+Q11H,säuerlicher Geschmack,10
+Q11I,Zitrusgeschmack,10
+"Q12A,""Werbung im Fernsehen, Radio oder Streaming-TV"",7"
+Q12B,Werbung auf den Social-Media-Kanälen von Herstellern oder Händlern,6
+Q12C,Empfehlungen von Influencern in Social Media,3
+Q12D,Werbung in Zeitschriften oder Illustrierten,1
+Q12E,Außenwerbung auf Plakaten/Displays oder bei Veranstaltungen/Festivals,4
+Q12F,Werbung in Sportstätten oder in Stadien,6
+Q12G,Verkaufsförderung/Angebote vor Ort im Handel,10
+Q12H,E-Mail-Werbung oder Werbung in Apps von Herstellern oder Händlern,5
+Q12I,Verkaufsförderung/Angebote in Hauswurfsendungen,5
+Q13,Welchem Geschlecht ordnen Sie sich zu?,7
+Q14,In welchem Jahr sind Sie geboren?,5
+Q15,In welchem Bundesland wohnen Sie derzeit?,5
+Q16,Wie ist Ihre aktuelle Beschäftigungssituation?,4
+Q17A,alleinlebend,5
+Q17B,mit Kind/Kindern lebend,5
+Q17C,mit Eltern/Elternteil lebend,4
+Q17D,mit Freund/in bzw. Lebenspartner/in lebend,5
+Q17E,mit sonstigen Personen lebend (bspw. studentische Wohngemeinschaft),4

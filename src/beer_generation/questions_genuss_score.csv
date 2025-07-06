@@ -1,0 +1,35 @@
+variable,question,score
+Q2C,zuhause beim Essen,8.0
+Q2D,zuhause zur Entspannung,10.0
+Q6C,Es macht mir großen Spaß ein Bier oder bierhaltiges Getränk zu konsumieren.,10.0
+Q7A,Gesunde Ernährung ist mir sehr wichtig.,8.0
+Q7C,Ich probiere sehr gerne neue Produkte oder Geschmacksrichtungen aus.,9.0
+Q8A,Geschmack des Getränks,8.0
+Q8B,Geruch/Aroma des Getränks,9.0
+Q8C,Kaufpreis des Getränks,8.0
+Q8E,Nachhaltige Produktion des Getränks,8.0
+Q8G,Design der Verpackung,8.0
+Q8J,Alkoholgehalt des Getränks,10.0
+Q9A,Alkoholfreies Bier oder alkoholfreie Biermischgetränke,8.0
+Q9B,Weizenbier/Weißbier/Berliner Weisse,8.0
+Q9C,Kölsch,8.0
+Q9D,Altbier (bspw. Diebels),8.0
+Q9E,Pale Ale (IPA etc.),8.0
+Q9F,Stout (bspw. Guinness),8.0
+Q9G,Märzen/Export/Kellerbier/Zwickelbier,8.0
+Q9H,Radler/Biermischgetränke (bspw. Cola-Bier),8.0
+Q9I,Pils/Pilsner,8.0
+Q9J,Bockbier/Schwarzbier/Rauchbier (bspw. Köstritzer),8.0
+Q9K,Helles oder Lager (bspw. Augustiner),8.0
+Q9L,Craft Beer,8.0
+Q10A,Alkoholfreies Bier ohne Alkohol (0% Alkoholgehalt),9.0
+Q11A,rauchiger Geschmack,10.0
+Q11B,herber-hopfiger Geschmack,10.0
+Q11C,süßlich-malziger Geschmack,10.0
+Q11D,fruchtiger Geschmack,10.0
+Q11E,Geschmack nach Kräutern,10.0
+Q11F,Geschmack nach Gewürzen,10.0
+Q11G,bitterer Geschmack,10.0
+Q11H,säuerlicher Geschmack,10.0
+Q11I,Zitrusgeschmack,10.0
+Q12G,Verkaufsförderung/Angebote vor Ort im Handel,10.0

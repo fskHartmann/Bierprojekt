@@ -1,0 +1,86 @@
+variable,question
+Q0,Trinken Sie alkoholhaltiges oder alkoholfreies Bier bzw. bierhaltige Getränke?
+Q1,Wie häufig trinken Sie grundsätzlich alkoholfreies oder alkoholhaltiges Bier bzw. bierhaltige Getränke?
+Q2A,in Gesellschaft bei Freunden/Familie
+Q2B,auf privaten Partys oder Feiern
+Q2C,zuhause beim Essen
+Q2D,zuhause zur Entspannung
+Q2E,"bei öffentlichen Veranstaltungen (Sport, Kultur, Musik etc.)"
+Q2F,"in Bars, Restaurants, Pubs, Clubs etc."
+Q2G,"im Urlaub im Hotel, am Strand etc."
+Q3,Nennen Sie uns Ihre bevorzugte(n) Lieblingsmarke(n) für Bier bzw. bierhaltige Getränke
+Q4A,"Stationärer Lebensmittelhandel (Supermarkt, Verbrauchermarkt, Discounter)"
+Q4B,Stationärer Getränkefachhandel/-abholmärkte
+Q4C,Tankstelle
+Q4D,Gastronomie/Hotellerie
+Q4E,Kiosk/Späti/Büdchen/24×7 Store
+Q4F,direkt in der Brauerei
+Q4G,Mensa/Kantine/Verpflegungsautomat
+Q4H,Lieferservice/Online-Lebensmittelhandel
+Q5,"Wie wichtig ist Ihnen, dass die von Ihnen konsumierten Biere bzw. bierhaltigen Getränke alkoholfrei sind?"
+Q6A,Ich besitze ein großes Interesse an Bier oder bierhaltigen Getränken.
+Q6B,Bier und bierhaltige Getränke spielen eine große Rolle in meinem Leben.
+Q6C,Es macht mir großen Spaß ein Bier oder bierhaltiges Getränk zu konsumieren.
+Q6D,Der Konsum von Bier oder bierhaltigen Getränken ist sehr wichtig für mich.
+Q6E,Der Konsum von Bier oder bierhaltigen Getränken ist sehr vorteilhaft für mich.
+Q6F,Auf den Konsum von Bier oder bierhaltigen Getränken kann ich auf keinen Fall verzichten.
+Q7A,Gesunde Ernährung ist mir sehr wichtig.
+Q7B,"Mir ist es sehr wichtig, dass Getränke umweltfreundlich hergestellt und vertrieben werden."
+Q7C,Ich probiere sehr gerne neue Produkte oder Geschmacksrichtungen aus.
+Q7D,"Für biologisch produzierte Getränke bin ich bereit, einen adäquaten Mehrpreis zu zahlen."
+Q7E,"Mir ist es sehr wichtig, dass bei der Herstellung von Getränken keine Inhaltsstoffe tierischen Ursprungs verwendet werden."
+Q7F,"Mir ist es sehr wichtig, beim Konsum von Getränken völlig auf Alkohol zu verzichten."
+Q8A,Geschmack des Getränks
+Q8B,Geruch/Aroma des Getränks
+Q8C,Kaufpreis des Getränks
+Q8D,Bekanntheit der Marke
+Q8E,Nachhaltige Produktion des Getränks
+Q8F,Herkunftsregion der Marke
+Q8G,Design der Verpackung
+Q8H,Verpackungsgröße/-form
+Q8I,Aktionsangebot im Handel
+Q8J,Alkoholgehalt des Getränks
+Q8K,Empfehlung von Dritten
+Q8L,Verfügbarkeit im Handel
+Q9A,Alkoholfreies Bier oder alkoholfreie Biermischgetränke
+Q9B,Weizenbier/Weißbier/Berliner Weisse
+Q9C,Kölsch
+Q9D,Altbier (bspw. Diebels)
+Q9E,Pale Ale (IPA etc.)
+Q9F,Stout (bspw. Guinness)
+Q9G,Märzen/Export/Kellerbier/Zwickelbier
+Q9H,Radler/Biermischgetränke (bspw. Cola-Bier)
+Q9I,Pils/Pilsner
+Q9J,Bockbier/Schwarzbier/Rauchbier (bspw. Köstritzer)
+Q9K,Helles oder Lager (bspw. Augustiner)
+Q9L,Craft Beer
+Q10A,Alkoholfreies Bier ohne Alkohol (0% Alkoholgehalt)
+Q10B,"Alkoholfreies Bier mit sehr geringem Alkoholgehalt (bis max. 0,5% Alkoholgehalt)"
+Q10C,"Normales Bier mit Alkohol (> 0,5% Alkoholgehalt)"
+Q11A,rauchiger Geschmack
+Q11B,herber-hopfiger Geschmack
+Q11C,süßlich-malziger Geschmack
+Q11D,fruchtiger Geschmack
+Q11E,Geschmack nach Kräutern
+Q11F,Geschmack nach Gewürzen
+Q11G,bitterer Geschmack
+Q11H,säuerlicher Geschmack
+Q11I,Zitrusgeschmack
+Q12A,"Werbung im Fernsehen, Radio oder Streaming-TV"
+Q12B,Werbung auf den Social-Media-Kanälen von Herstellern oder Händlern
+Q12C,Empfehlungen von Influencern in Social Media
+Q12D,Werbung in Zeitschriften oder Illustrierten
+Q12E,Außenwerbung auf Plakaten/Displays oder bei Veranstaltungen/Festivals
+Q12F,Werbung in Sportstätten oder in Stadien
+Q12G,Verkaufsförderung/Angebote vor Ort im Handel
+Q12H,E-Mail-Werbung oder Werbung in Apps von Herstellern oder Händlern
+Q12I,Verkaufsförderung/Angebote in Hauswurfsendungen
+Q13,Welchem Geschlecht ordnen Sie sich zu?
+Q14,In welchem Jahr sind Sie geboren?
+Q15,In welchem Bundesland wohnen Sie derzeit?
+Q16,Wie ist Ihre aktuelle Beschäftigungssituation?
+Q17A,alleinlebend
+Q17B,mit Kind/Kindern lebend
+Q17C,mit Eltern/Elternteil lebend
+Q17D,mit Freund/in bzw. Lebenspartner/in lebend
+Q17E,mit sonstigen Personen lebend (bspw. studentische Wohngemeinschaft)
